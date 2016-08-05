@@ -8,4 +8,4 @@
 - Converts the activity and subject columns into factors
 - Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
 - Source/Execute the script and wait until tidy data is generated. 
--  The two data sets will be stored in .tidyTxt/ directory as well as these will be available in your R workspace.
+-  The two data sets will be stored in .tidyTxt/ directory.
